@@ -5,780 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4980edd9-8e9a-434f-83f9-3145769a160a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/File/Fixtures/directory/.empty" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/public/images/blue-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.phar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/public/images/field-background.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Message/Fixtures/google.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/public/images/logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/public/images/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/File/Fixtures/test.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/File/Fixtures/test" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/public/images/welcome-configure.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/public/images/welcome-demo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/public/images/welcome-quick-tour.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/gremo/buzz-bundle/Gremo/BuzzBundle/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/gremo/buzz-bundle/Gremo/BuzzBundle/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/psr/log/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/gremo/buzz-bundle/Gremo/BuzzBundle/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/File/Fixtures/.unknownextension" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Client/AbstractClient.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Client/AbstractCurl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/psr/log/Psr/Log/AbstractLogger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Message/AbstractMessage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Message/AbstractMessageTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/AbstractProfilerStorageTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/Proxy/AbstractProxy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Storage/Proxy/AbstractProxyTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Client/AbstractStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Client/AbstractStreamTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/AcceptHeader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/AcceptHeaderItem.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/AcceptHeaderItemTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/AcceptHeaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/Exception/AccessDeniedException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/AccessDeniedHttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/AcmeDemoBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/DependencyInjection/AcmeDemoExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DependencyInjection/AddClassesToCachePass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Alias.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/AnalyzeServiceReferencesPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Compiler/AnalyzeServiceReferencesPassTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/ApacheRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/ApacheRequestTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/ArrayNode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Builder/ArrayNodeDefinition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Definition/Builder/ArrayNodeDefinitionTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Definition/ArrayNodeTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Attribute/AttributeBag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Attribute/AttributeBagInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Attribute/AttributeBagTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Flash/AutoExpireFlashBag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Flash/AutoExpireFlashBagTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Exception/BadMethodCallException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/BadRequestHttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Fixtures/Builder/BarNodeDefinition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Profiler/BaseMemcacheProfilerStorage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/BaseNode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Listener/BasicAuthListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Listener/BasicAuthListenerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Client/BatchClientInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/BinaryFileResponse.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/BinaryFileResponseTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/BooleanNode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Builder/BooleanNodeDefinition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Definition/BooleanNodeTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Browser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/BrowserTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Bundle/Bundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Bundle/BundleInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Bundle/BundleTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/CacheClearer/CacheClearerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/CacheWarmer/CacheWarmer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/CacheWarmer/CacheWarmerAggregate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/CacheWarmer/CacheWarmerAggregateTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/CacheWarmer/CacheWarmerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/CacheWarmer/CacheWarmerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Listener/CallbackListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Listener/CallbackListenerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/CacheClearer/ChainCacheClearer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/CacheClearer/ChainCacheClearerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/CheckCircularReferencesPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Compiler/CheckCircularReferencesPassTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/CheckDefinitionValidityPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Compiler/CheckDefinitionValidityPassTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/CheckExceptionOnInvalidReferenceBehaviorPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Compiler/CheckExceptionOnInvalidReferenceBehaviorPassTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/CheckReferenceValidityPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Compiler/CheckReferenceValidityPassTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/composer/ClassLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Client.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Exception/ClientException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Client/ClientInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Client/ClientTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/ClientTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Loader/ClosureLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Loader/ClosureLoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/Compiler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/CompilerPassInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/ConfigCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DataCollector/ConfigDataCollector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/DataCollector/ConfigDataCollectorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DependencyInjection/ConfigurableExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/gremo/buzz-bundle/Gremo/BuzzBundle/DependencyInjection/Configuration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/DependencyInjection/Configuration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Extension/ConfigurationExtensionInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/ConfigurationInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/gremo/buzz-bundle/Gremo/BuzzBundle/Tests/DependencyInjection/ConfigurationTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/ConflictHttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Form/ContactType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Container.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/ContainerAware.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/ContainerAwareEventDispatcher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/Tests/ContainerAwareEventDispatcherTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DependencyInjection/ContainerAwareHttpKernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/DependencyInjection/ContainerAwareHttpKernelTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/ContainerAwareInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/ContainerBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/ContainerBuilderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/ContainerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/ContainerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/EventListener/ControllerListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Controller/ControllerReference.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Controller/ControllerResolver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Controller/ControllerResolverInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Controller/ControllerResolverTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Util/Cookie.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Cookie.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Util/CookieJar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Util/CookieJarTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Util/CookieTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/CookieTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/CrossCheckTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Client/Curl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DataCollector/DataCollector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DataCollector/DataCollectorInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Log/DebugLoggerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/DefaultController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Tests/Controller/DefaultControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Definition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/DefinitionDecorator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/DefinitionDecoratorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/DefinitionTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Loader/DelegatingLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Loader/DelegatingLoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Controller/DemoController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Tests/Controller/DemoControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Twig/Extension/DemoExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/EventListener/DeprecationLoggerListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Resource/DirectoryResource.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Resource/DirectoryResourceTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Dumper/Dumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Dumper/DumperInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Exception/DuplicateKeyException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Services/EbayRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Listener/History/Entry.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Listener/History/EntryTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/EnumNode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Builder/EnumNodeDefinition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Definition/Builder/EnumNodeDefinitionTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Definition/EnumNodeTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Debug/ErrorHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Debug/ErrorHandlerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/HttpCache/Esi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Fragment/EsiFragmentRenderer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fragment/EsiFragmentRendererTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/EventListener/EsiListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/EventListener/EsiListenerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/HttpCache/EsiResponseCacheStrategy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/HttpCache/EsiResponseCacheStrategyInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/HttpCache/EsiTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/Event.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DataCollector/EventDataCollector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/EventDispatcher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/EventDispatcherInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/Tests/EventDispatcherTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/EventSubscriberInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/Tests/EventTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Fixtures/Configuration/ExampleConfiguration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Exception/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DataCollector/ExceptionDataCollector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/DataCollector/ExceptionDataCollectorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Debug/ExceptionHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Debug/ExceptionHandlerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Exception/ExceptionInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Exception/ExceptionInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/EventListener/ExceptionListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/EventListener/ExceptionListenerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Builder/ExprBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Definition/Builder/ExprBuilderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Extension/Extension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DependencyInjection/Extension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/ExtensionAbsentBundle/ExtensionAbsentBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/MimeType/ExtensionGuesser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/MimeType/ExtensionGuesserInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Extension/ExtensionInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/ExtensionLoadedBundle/ExtensionLoadedBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/ExtensionLoadedBundle/DependencyInjection/ExtensionLoadedExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/ExtensionPresentBundle/ExtensionPresentBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/ExtensionPresentBundle/DependencyInjection/ExtensionPresentExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Extension/ExtensionTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Message/Factory/Factory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Message/Factory/FactoryInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Message/FactoryTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/FatalErrorException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/FileBag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/FileBagTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/MimeType/FileBinaryMimeTypeGuesser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/Exception/FileException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Client/FileGetContents.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Loader/FileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Loader/FileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Exception/FileLoaderImportCircularReferenceException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Exception/FileLoaderLoadException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/FileLocator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Config/FileLocator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/FileLocatorInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/FileLocatorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/Exception/FileNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Profiler/FileProfilerStorage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/FileProfilerStorageTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Resource/FileResource.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Resource/FileResourceTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/File/FileTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/MimeType/FileinfoMimeTypeGuesser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Event/FilterControllerEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Event/FilterResponseEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Definition/FinalizationTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Flash/FlashBag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Flash/FlashBagInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Flash/FlashBagTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/FlattenException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Exception/FlattenExceptionTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/FloatNode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Builder/FloatNodeDefinition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Definition/FloatNodeTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/FooBarBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/ExtensionPresentBundle/Command/FooCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Exception/ForbiddenOverwriteException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Message/Form/FormRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Message/Form/FormRequestInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Message/FormRequestTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Message/Form/FormUpload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Message/Form/FormUploadInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Message/FormUploadTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Fragment/FragmentHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fragment/FragmentHandlerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/EventListener/FragmentListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/EventListener/FragmentListenerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Fragment/FragmentRendererInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/ParameterBag/FrozenParameterBag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/ParameterBag/FrozenParameterBagTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Client/FunctionalTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/GenericEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/Tests/GenericEventTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Event/GetResponseEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Event/GetResponseForControllerResultEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Event/GetResponseForExceptionEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/GoneHttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Dumper/GraphvizDumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Dumper/GraphvizDumperTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/gremo/buzz-bundle/Gremo/BuzzBundle/GremoBuzzBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/gremo/buzz-bundle/Gremo/BuzzBundle/DependencyInjection/GremoBuzzExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/gremo/buzz-bundle/Gremo/BuzzBundle/Tests/DependencyInjection/GremoBuzzExtensionTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Fragment/HIncludeFragmentRenderer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fragment/HIncludeFragmentRendererTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/HeaderBag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/HeaderBagTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Listener/HistoryListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Listener/HistoryListenerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/HttpCache/HttpCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/HttpCache/HttpCacheTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/HttpCache/HttpCacheTestCase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/HttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/HttpExceptionInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/HttpKernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/HttpKernelInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/HttpKernelTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/ImmutableEventDispatcher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/Tests/ImmutableEventDispatcherTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Exception/InactiveScopeException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Loader/IniFileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Loader/IniFileLoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Fragment/InlineFragmentRenderer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fragment/InlineFragmentRendererTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/InlineServiceDefinitionsPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Compiler/InlineServiceDefinitionsPassTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/IntegerNode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Builder/IntegerNodeDefinition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Definition/IntegerNodeTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Compiler/IntegrationTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/IntrospectableContainerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Exception/InvalidArgumentException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/psr/log/Psr/Log/InvalidArgumentException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Exception/InvalidArgumentException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Exception/InvalidConfigurationException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Exception/InvalidDefinitionException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Exception/InvalidTypeException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/IpUtils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/IpUtilsTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Listener/History/Journal.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Listener/History/JournalTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/JsonResponse.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/JsonResponseTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Kernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Event/KernelEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/KernelEvents.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/KernelForOverrideName.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/KernelForTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/KernelInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/KernelTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keyword.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/gremo/buzz-bundle/Gremo/BuzzBundle/Resources/meta/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/psr/log/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/LengthRequiredHttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Listener/ListenerChain.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Listener/ListenerChainTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Listener/ListenerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Loader/Loader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Loader/LoaderInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Loader/LoaderResolver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Loader/LoaderResolverInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Loader/LoaderResolverTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Loader/LoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/EventListener/LocaleListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/EventListener/LocaleListenerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/psr/log/Psr/Log/LogLevel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Logger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/psr/log/Psr/Log/LoggerAwareInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/psr/log/Psr/Log/LoggerAwareTrait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DataCollector/LoggerDataCollector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/DataCollector/LoggerDataCollectorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/psr/log/Psr/Log/LoggerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Log/LoggerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Listener/LoggerListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Listener/LoggerListenerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/psr/log/Psr/Log/LoggerTrait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/LoggingFormatter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Exception/LogicException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Exception/LogicException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/Mock/MemcacheMock.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Profiler/MemcacheProfilerStorage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/MemcacheProfilerStorageTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/Handler/MemcacheSessionHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Storage/Handler/MemcacheSessionHandlerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/Mock/MemcachedMock.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Profiler/MemcachedProfilerStorage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/MemcachedProfilerStorageTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/Handler/MemcachedSessionHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Storage/Handler/MemcachedSessionHandlerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DataCollector/MemoryDataCollector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/DataCollector/MemoryDataCollectorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Builder/MergeBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/MergeExtensionConfigurationPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DependencyInjection/MergeExtensionConfigurationPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/DependencyInjection/MergeExtensionConfigurationPassTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Definition/MergeTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Message/MessageInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/MetadataBag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Storage/MetadataBagTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/MethodNotAllowedHttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/MimeType/MimeTypeExtensionGuesser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/MimeType/MimeTypeGuesser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/MimeType/MimeTypeGuesserInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/File/MimeType/MimeTypeTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/MockArraySessionStorage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Storage/MockArraySessionStorageTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/MockFileSessionStorage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Storage/MockFileSessionStorageTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Profiler/MongoDbProfilerStorage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/MongoDbProfilerStorageTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/Handler/MongoDbSessionHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Storage/Handler/MongoDbSessionHandlerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Client/MultiCurl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Profiler/MysqlProfilerStorage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Attribute/NamespacedAttributeBag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Attribute/NamespacedAttributeBagTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/Handler/NativeFileSessionHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Storage/Handler/NativeFileSessionHandlerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/Proxy/NativeProxy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Storage/Proxy/NativeProxyTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/Handler/NativeSessionHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Storage/Handler/NativeSessionHandlerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Storage/NativeSessionStorageTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Builder/NodeBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Fixtures/Builder/NodeBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Definition/Builder/NodeBuilderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Builder/NodeDefinition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/NodeInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Builder/NodeParentInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Builder/NormalizationBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Definition/NormalizationTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/NotAcceptableHttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/NotFoundHttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/psr/log/Psr/Log/NullLogger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Log/NullLogger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/Handler/NullSessionHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Storage/Handler/NullSessionHandlerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/NumericNode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Builder/NumericNodeDefinition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Definition/Builder/NumericNodeDefinitionTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Exception/OutOfBoundsException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Parameter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/ParameterBag/ParameterBag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/ParameterBag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/ParameterBag/ParameterBagInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/ParameterBag/ParameterBagTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/ParameterBagTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Exception/ParameterCircularReferenceException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Exception/ParameterNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/ParameterTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Builder/ParentNodeDefinitionInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/PassConfig.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Profiler/PdoProfilerStorage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/Handler/PdoSessionHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Storage/Handler/PdoSessionHandlerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Dumper/PhpDumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Dumper/PhpDumperTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Loader/PhpFileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Loader/PhpFileLoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Event/PostResponseEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/PreconditionFailedHttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/PreconditionRequiredHttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Extension/PrependExtensionInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Processor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Product.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Services/ProductService.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Profiler/Profile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Profiler/Profiler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/EventListener/ProfilerListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Profiler/ProfilerStorageInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/ProfilerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/PrototypeNodeInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/PrototypedArrayNode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Definition/PrototypedArrayNodeTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/gremo/buzz-bundle/Gremo/BuzzBundle/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/psr/log/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/RaphEbayparserBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/DependencyInjection/RaphEbayparserExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/RedirectResponse.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/RedirectResponseTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/Mock/RedisMock.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Profiler/RedisProfilerStorage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/RedisProfilerStorageTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Reference.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/ReferenceDumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Definition/ReferenceDumperTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/ReferenceTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/RemoveAbstractDefinitionsPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/RemovePrivateAliasesPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/RemoveUnusedDefinitionsPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Compiler/RemoveUnusedDefinitionsPassTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/RepeatablePassInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/RepeatedPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/ReplaceAliasByActualDefinitionPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Compiler/ReplaceAliasByActualDefinitionPassTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Message/Request.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Request.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DataCollector/RequestDataCollector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/DataCollector/RequestDataCollectorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Message/RequestInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/RequestMatcher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/RequestMatcherInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/RequestMatcherTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Message/RequestTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/RequestTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/ResolveDefinitionTemplatesPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Compiler/ResolveDefinitionTemplatesPassTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/ResolveInvalidReferencesPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Compiler/ResolveInvalidReferencesPassTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/ResolveParameterPlaceHoldersPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/ResolveReferencesToAliasesPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Compiler/ResolveReferencesToAliasesPassTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Resource/ResourceInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Message/Response.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Response.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/ResponseHeaderBag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/ResponseHeaderBagTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/EventListener/ResponseListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/EventListener/ResponseListenerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Message/ResponseTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/ResponseTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Fragment/RoutableFragmentRenderer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fragment/RoutableFragmentRendererTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DataCollector/RouterDataCollector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/EventListener/RouterListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/EventListener/RouterListenerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Exception/RuntimeException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Exception/RuntimeException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/ScalarNode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Builder/ScalarNodeDefinition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Definition/ScalarNodeTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Scope.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Exception/ScopeCrossingInjectionException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/ScopeInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Exception/ScopeWideningInjectionException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Controller/SecuredController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/ServerBag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/ServerBagTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Exception/ServiceCircularReferenceException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Exception/ServiceNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraph.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphEdge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Compiler/ServiceReferenceGraphNode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/ServiceUnavailableHttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/SessionBagInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Resources/stubs/SessionHandlerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/Proxy/SessionHandlerProxy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Storage/Proxy/SessionHandlerProxyTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/SessionInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/SessionStorageInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/SessionTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/SimpleXMLElement.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Profiler/SqliteProfilerStorage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/SqliteProfilerStorageTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/HttpCache/Store.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/HttpCache/StoreInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/HttpCache/StoreTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/StreamedResponse.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/EventListener/StreamedResponseListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/StreamedResponseTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/SymfonyRequirements.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TODO" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/TaggedContainerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/TerminableInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/TestClient.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/TestEventDispatcher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/TestHttpKernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/HttpCache/TestHttpKernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/HttpCache/TestMultipleHttpKernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DataCollector/TimeDataCollector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/TooManyRequestsHttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Controller/TraceableControllerResolver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Debug/TraceableEventDispatcher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/Debug/TraceableEventDispatcherInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Debug/TraceableEventDispatcherTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Builder/TreeBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Definition/Builder/TreeBuilderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UPGRADE-2.2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UPGRADE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/UnauthorizedHttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/Exception/UnexpectedTypeException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Exception/UnsetKeyException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/UnsupportedMediaTypeHttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/Exception/UploadException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/UploadedFile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/File/UploadedFileTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/UriSigner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/UriSignerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Util/Url.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/Buzz/Test/Util/UrlTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Builder/ValidationBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Variable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/VariableNode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Definition/Builder/VariableNodeDefinition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Fixtures/Builder/VariableNodeDefinition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/CacheWarmer/WarmableInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Controller/WelcomeController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Dumper/XmlDumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Dumper/XmlDumperTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Loader/XmlFileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Loader/XmlFileLoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Util/XmlUtils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Util/XmlUtilsTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Dumper/YamlDumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Dumper/YamlDumperTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Loader/YamlFileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Loader/YamlFileLoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app_dev.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/composer/autoload_classmap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/composer/autoload_namespaces.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/composer/autoload_real.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/yaml/badtag1.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/yaml/badtag2.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/yaml/badtag3.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/Bundle1Bundle/bar.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/gremo/buzz-bundle/Gremo/BuzzBundle/Tests/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/check.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/classes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/gremo/buzz-bundle/Gremo/BuzzBundle/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/psr/log/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_dev.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_prod.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_test.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/console" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/Demo/contact.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/containers/container10.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/containers/container11.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/containers/container12.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/containers/container13.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/containers/container14.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/containers/container8.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/containers/container9.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/createphar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/public/css/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Fixtures/Util/document_type.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ebayparser.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/foo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/BaseBundle/Resources/foo.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/Bundle1Bundle/foo.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/Bundle1Bundle/Resources/foo.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/Bundle2Bundle/foo.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/ChildBundle/Resources/foo.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/Resources/Bundle1Bundle/foo.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/Resources/ChildBundle/foo.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/Resources/FooBundle/foo.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Fixtures/foo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Fixtures/Again/foo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/frameworkRootSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/Demo/hello.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/Secured/hello.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/Secured/helloadmin.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/BaseBundle/Resources/hide.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/ChildBundle/Resources/hide.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/Resources/BaseBundle/hide.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/Demo/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/Welcome/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Default/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/doc/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Default/index2.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/composer/installed.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/containers/interfaces1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/containers/interfaces2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Fixtures/Util/invalid.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Fixtures/Util/invalid_schema.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/layout.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/Secured/layout.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/Secured/login.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/translations/messages.fr.xlf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/nginx.conf.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/ini/nonvalid.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/nonvalid.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/yaml/nonvalid1.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/yaml/nonvalid2.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/ini/parameters.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/parameters.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/ini/parameters1.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/ini/parameters2.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/gremo/buzz-bundle/Gremo/BuzzBundle/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/schema/project-1.0.xsd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing_dev.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sass_stdlib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Fixtures/Util/schema.xsd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/security.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/test/server.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Loader/schema/dic/services/services-1.0.xsd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/gremo/buzz-bundle/Gremo/BuzzBundle/Resources/config/services.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/extension1/services.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/extension2/services.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/config/services.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/config/services.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/php/services1-1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/graphviz/services1.dot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/php/services1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/services1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/extensions/services1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/yaml/services1.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/graphviz/services10-1.dot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/graphviz/services10.dot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/php/services10.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/yaml/services10.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/php/services11.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/yaml/services11.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/graphviz/services13.dot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/services13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/yaml/services13.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/graphviz/services14.dot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/services2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/extensions/services2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/yaml/services2.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/services3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/extensions/services3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/yaml/services3.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/services4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/extensions/services4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/yaml/services4.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/services4_bad_import.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/yaml/services4_bad_import.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/services5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/extensions/services5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/services6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/extensions/services6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/yaml/services6.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/services7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/extensions/services7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/yaml/services7.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/php/services8.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/services8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/yaml/services8.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/graphviz/services9.dot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/php/services9.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/services9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/yaml/services9.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/php/services9_compiled.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/php/simple.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/config/Symfony/Component/Config/Tests/Fixtures/Util/valid.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/xml/withdoctype.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Category.php" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keyword.php" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keyword.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TODO" afterPath="$PROJECT_DIR$/TODO" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ebayparser.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -787,7 +17,7 @@
     <file path="/EbayRequest.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1367965293760" ignored="false" />
     <file path="/services.xml" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1366216471468" ignored="false" />
     <file path="/routing.yml" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1365101243010" ignored="false" />
-    <file path="/dummy.txt" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368745184097" ignored="false" />
+    <file path="/dummy.txt" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368915566260" ignored="false" />
     <file path="/index2.html.twig" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1366039098595" ignored="false" />
     <file path="/fragment.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1366491925514" ignored="false" />
     <file path="/Product.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1367967943502" ignored="false" />
@@ -796,10 +26,10 @@
     <file path="/Keywords.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1366713815951" ignored="false" />
     <file path="/a.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1367962357333" ignored="false" />
     <file path="/Country.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1367965161190" ignored="false" />
-    <file path="/Keyword.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368479869719" ignored="false" />
+    <file path="/Keyword.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368915127652" ignored="false" />
     <file path="/Category.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368480123560" ignored="false" />
     <file path="/TODO" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368745625660" ignored="false" />
-    <file path="/Dummy.txt" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368914346691" ignored="false" />
+    <file path="/Dummy.txt" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368914612919" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -839,10 +69,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TODO" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TODO" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TODO">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="131" selection-end="131" vertical-scroll-proportion="0.1744186">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -860,7 +90,7 @@
       <file leaf-file-name="Product.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="118" column="62" selection-start="2035" selection-end="2035" vertical-scroll-proportion="-13.75">
+            <state line="115" column="4" selection-start="1893" selection-end="2073" vertical-scroll-proportion="-11.25">
               <folding />
             </state>
           </provider>
@@ -875,10 +105,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Keyword.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Keyword.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keyword.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="48" selection-start="129" selection-end="129" vertical-scroll-proportion="10.32">
+            <state line="55" column="5" selection-start="1039" selection-end="1039" vertical-scroll-proportion="-0.89055794">
               <folding>
                 <element signature="e#48#80#0" expanded="true" />
               </folding>
@@ -889,7 +119,7 @@
       <file leaf-file-name="Category.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Category.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="19" selection-start="207" selection-end="207" vertical-scroll-proportion="-0.0">
+            <state line="31" column="8" selection-start="456" selection-end="456" vertical-scroll-proportion="-10.0">
               <folding />
             </state>
           </provider>
@@ -904,18 +134,6 @@
   </component>
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
-      <command text="s doctrine:schema:update --dump-sql" />
-      <command text="s doctrine:generate:entities RaphEbayparserBundle" />
-      <command text="s doctrine:generate:entities RaphEbayparserBundle" />
-      <command text="s doctrine:generate:entities RaphEbayparserBundle" />
-      <command text="s doctrine:schema:update --dump-sql" />
-      <command text="s doctrine:schema:update --force" />
-      <command text="s doctrine:generate:entity --entity=&quot;RaphEbayparserBundle:Category&quot; --fields=&quot;name:string(255)&quot;" />
-      <command text="s doctrine:generate:entity --entity=RaphEbayparserBundle:Category --fields=name:string(255)" />
-      <command text="s doctrine:generate:entities Raph" />
-      <command text="s doctrine:schema:update --force" />
-      <command text="s doctrine:schema:update --force" />
-      <command text="s server:run " />
       <command text="s doctrine:generate:entities Raph" />
       <command text="s server:run " />
       <command text="s doctrine:generate:entities Raph" />
@@ -927,6 +145,18 @@
       <command text="s doctrine:schema:update --dump-sql" />
       <command text="s doctrine:generate:entities Raph" />
       <command text="s doctrine:schema:update --dump-sql" />
+      <command text="s doctrine:schema:update --dump-sql" />
+      <command text="s doctrine:schema:update --force" />
+      <command text="s doctrine:schema:update --dump-sql" />
+      <command text="s doctrine:generate:entities Raph" />
+      <command text="s doctrine:schema:update --dump-sql" />
+      <command text="s doctrine:generate:entities Raph" />
+      <command text="s doctrine:schema:update --dump-sql" />
+      <command text="s doctrine:schema:update --force" />
+      <command text="s server:run " />
+      <command text="s doctrine:generate:entities Raph" />
+      <command text="s doctrine:schema:update --dump-sql" />
+      <command text="s doctrine:generate:entities Raph" />
       <command text="s doctrine:schema:update --dump-sql" />
       <command text="s doctrine:schema:update --force" />
     </commandsHistory>
@@ -953,14 +183,14 @@
         <option value="$PROJECT_DIR$/app/config/parameters.yml" />
         <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keywords.php" />
         <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Country.php" />
-        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Category.php" />
         <option value="$PROJECT_DIR$/vendor/kriswallsmith/buzz/lib/Buzz/Client/AbstractCurl.php" />
         <option value="$PROJECT_DIR$/app/config/config_dev.yml" />
-        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keyword.php" />
         <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Product.php" />
         <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/DefaultController.php" />
-        <option value="$PROJECT_DIR$/TODO" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/TODO" />
+        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Category.php" />
+        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keyword.php" />
       </list>
     </option>
   </component>
@@ -1110,6 +340,11 @@
       <created>1363792569985</created>
       <updated>1363792569985</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1368914724658</created>
+      <updated>1368914724658</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1136,17 +371,18 @@
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6006098" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32228118" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29196557" sideWeight="0.2413793" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29196557" sideWeight="0.18037136" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44960213" sideWeight="0.4913917" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44960213" sideWeight="0.50860834" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28119937" sideWeight="0.5259939" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29053086" sideWeight="0.35145888" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29053086" sideWeight="0.40053052" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29053086" sideWeight="0.48408487" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29053086" sideWeight="0.26790452" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2480106" sideWeight="0.9928264" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1162,8 +398,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <value>
         <are-packages-shown value="false" />
@@ -1199,7 +435,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1213,6 +449,7 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1325,22 +562,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keyword.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="48" selection-start="129" selection-end="129" vertical-scroll-proportion="10.32">
-          <folding>
-            <element signature="e#48#80#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="62" selection-start="2035" selection-end="2035" vertical-scroll-proportion="-13.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Message/RequestInterface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="51" selection-start="487" selection-end="487" vertical-scroll-proportion="-2.1">
@@ -1357,13 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="19" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="26" selection-start="90" selection-end="90" vertical-scroll-proportion="0.14534883">
@@ -1373,8 +587,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TODO">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="131" selection-end="131" vertical-scroll-proportion="0.1744186">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="4" selection-start="1893" selection-end="2073" vertical-scroll-proportion="-11.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="8" selection-start="456" selection-end="456" vertical-scroll-proportion="-10.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keyword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="5" selection-start="1039" selection-end="1039" vertical-scroll-proportion="-0.89055794">
+          <folding>
+            <element signature="e#48#80#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

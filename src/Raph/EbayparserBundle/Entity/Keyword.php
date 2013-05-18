@@ -30,6 +30,7 @@ class Keyword
 
     /**
      * @var boolean
+     * @ORM\Column(name="active", type="boolean")
      */
     private $active;
 
@@ -39,7 +40,12 @@ class Keyword
      */
     protected $products;
 
-
+    /**
+     *
+     * @ORM\ManyToOne(targetEntity="Category", inversedBy="keyword")
+     * @ORM\JoinColumn(name="category_id", referencedColumnName="id")
+     */
+    protected $category;
 
     /**
      * Constructor
@@ -115,4 +121,50 @@ class Keyword
         return $this->products;
     }
 
+
+    /**
+     * Set category
+     *
+     * @param \Raph\EbayparserBundle\Entity\Category $category
+     * @return Keyword
+     */
+    public function setCategory(\Raph\EbayparserBundle\Entity\Category $category = null)
+    {
+        $this->category = $category;
+    
+        return $this;
+    }
+
+    /**
+     * Get category
+     *
+     * @return \Raph\EbayparserBundle\Entity\Category 
+     */
+    public function getCategory()
+    {
+        return $this->category;
+    }
+
+    /**
+     * Set active
+     *
+     * @param boolean $active
+     * @return Keyword
+     */
+    public function setActive($active)
+    {
+        $this->active = $active;
+    
+        return $this;
+    }
+
+    /**
+     * Get active
+     *
+     * @return boolean 
+     */
+    public function getActive()
+    {
+        return $this->active;
+    }
 }

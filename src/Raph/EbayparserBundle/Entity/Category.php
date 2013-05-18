@@ -29,6 +29,7 @@ class Category
     private $name;
 
     /**
+     * @var string
      * @ORM\OneToMany(targetEntity="Keyword", mappedBy="category")
      */
     protected $keywords;
