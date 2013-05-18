@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/app/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/app/logs" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/vendor/gremo/buzz-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/vendor/kriswallsmith/buzz" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/vendor/symfony/http-kernel" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar" />
+          <root url="phar://$MODULE_DIR$/composer.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/bin/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar" />
+          <root url="phar://$MODULE_DIR$/composer.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Composer Vendors">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/bin/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/bin/vendor/gremo/buzz-bundle" />
+          <root url="file://$MODULE_DIR$/bin/vendor/symfony/config" />
+          <root url="file://$MODULE_DIR$/bin/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/bin/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/bin/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/bin/vendor/symfony/dependency-injection" />
+          <root url="file://$MODULE_DIR$/bin/vendor/composer" />
+          <root url="file://$MODULE_DIR$/bin/vendor/kriswallsmith/buzz" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/bin/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/bin/vendor/gremo/buzz-bundle" />
+          <root url="file://$MODULE_DIR$/bin/vendor/symfony/config" />
+          <root url="file://$MODULE_DIR$/bin/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/bin/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/bin/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/bin/vendor/symfony/dependency-injection" />
+          <root url="file://$MODULE_DIR$/bin/vendor/composer" />
+          <root url="file://$MODULE_DIR$/bin/vendor/kriswallsmith/buzz" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
+

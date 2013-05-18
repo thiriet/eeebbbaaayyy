@@ -1,0 +1,5 @@
+raph_ebayparser:
+    resource: "@RaphEbayparserBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
