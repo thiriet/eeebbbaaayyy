@@ -3,6 +3,7 @@
 namespace Raph\EbayparserBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
+use Doctrine\Common\Collections\ArrayCollection;
 
 /**
  * Category
@@ -36,7 +37,7 @@ class Category
 
     public function __construct()
     {
-        $this->products = new ArrayCollection();
+        $this->keywords = new ArrayCollection();
     }
 
     /**

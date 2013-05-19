@@ -34,12 +34,12 @@ class DefaultController extends Controller
         $keys = 'dearmond gold tone';
 
         $em=$this->getDoctrine()->getManager();
-        $repository = $em->getRepository('RaphEbayparserBundle:Product');
+        $repository = $em->getRepository('RaphEbayparserBundle:Keyword');
 
         //TODO retrieve keyword object from category
-        $keyword = new Keyword;
-        $keyword->setKeyword($keys);
-        $em->persist($keyword);
+        $keyword = $repository->find(7);
+
+        $repository = $em->getRepository('RaphEbayparserBundle:Product');
 
         $ebayResponse = $this->get('raph.ebayrequest')->requestEbay('findItemsByKeywords',$keys, 'US');
         if ($ebayResponse->ack == "Success") {

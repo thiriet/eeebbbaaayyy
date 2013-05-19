@@ -42,7 +42,7 @@ class Keyword
 
     /**
      *
-     * @ORM\ManyToOne(targetEntity="Category", inversedBy="keyword")
+     * @ORM\ManyToOne(targetEntity="Category", inversedBy="keywords")
      * @ORM\JoinColumn(name="category_id", referencedColumnName="id")
      */
     protected $category;
