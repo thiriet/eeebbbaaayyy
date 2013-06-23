@@ -105,4 +105,9 @@ class Category
     {
         return $this->keywords;
     }
+    public function __toString()
+    {
+        return $this->name;
+    }
+
 }

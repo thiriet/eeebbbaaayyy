@@ -1,0 +1,86 @@
+{% extends '::base.html.twig' %}
+
+{% block body -%}
+    <h1>Product</h1>
+
+    <table class="record_properties">
+        <tbody>
+            <tr>
+                <th>Id</th>
+                <td>{{ entity.id }}</td>
+            </tr>
+            <tr>
+                <th>Name</th>
+                <td>{{ entity.name }}</td>
+            </tr>
+            <tr>
+                <th>Productcountry</th>
+                <td>{{ entity.productCountry }}</td>
+            </tr>
+            <tr>
+                <th>Ebayid</th>
+                <td>{{ entity.ebayID }}</td>
+            </tr>
+            <tr>
+                <th>Price</th>
+                <td>{{ entity.price }}</td>
+            </tr>
+            <tr>
+                <th>Currency</th>
+                <td>{{ entity.currency }}</td>
+            </tr>
+            <tr>
+                <th>Description</th>
+                <td>{{ entity.description }}</td>
+            </tr>
+            <tr>
+                <th>Creationdate</th>
+                <td>{{ entity.creationDate|date('Y-m-d H:i:s') }}</td>
+            </tr>
+            <tr>
+                <th>Updatedate</th>
+                <td>{{ entity.updateDate|date('Y-m-d H:i:s') }}</td>
+            </tr>
+            <tr>
+                <th>Publicationdate</th>
+                <td>{{ entity.publicationDate|date('Y-m-d H:i:s') }}</td>
+            </tr>
+            <tr>
+                <th>Enddate</th>
+                <td>{{ entity.endDate|date('Y-m-d H:i:s') }}</td>
+            </tr>
+            <tr>
+                <th>Sellprice</th>
+                <td>{{ entity.sellPrice }}</td>
+            </tr>
+            <tr>
+                <th>Bidamount</th>
+                <td>{{ entity.bidAmount }}</td>
+            </tr>
+            <tr>
+                <th>Sellingstate</th>
+                <td>{{ entity.sellingState }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+        <ul class="record_actions">
+    <li>
+        <a href="{{ path('product') }}">
+            Back to the list
+        </a>
+    </li>
+    <li>
+        <a href="{{ path('product_edit', { 'id': entity.id }) }}">
+            Edit
+        </a>
+    </li>
+    <li>
+        <form action="{{ path('product_delete', { 'id': entity.id }) }}" method="post">
+            <input type="hidden" name="_method" value="DELETE" />
+            {{ form_widget(delete_form) }}
+            <button type="submit">Delete</button>
+        </form>
+    </li>
+</ul>
+{% endblock %}

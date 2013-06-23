@@ -167,4 +167,10 @@ class Keyword
     {
         return $this->active;
     }
+    public function __toString()
+    {
+        return (string)$this->keyword;
+    }
+
+
 }

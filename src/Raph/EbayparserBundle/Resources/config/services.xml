@@ -6,11 +6,38 @@
 
     <parameters>
         <parameter key="raph.ebayrequest.class">Raph\EbayparserBundle\Services\EbayRequest</parameter>
+        <parameter key="raph.categoryadmin.class">Raph\EbayparserBundle\Admin\CategoryAdmin</parameter>
+        <parameter key="raph.keywordadmin.class">Raph\EbayparserBundle\Admin\KeywordAdmin</parameter>
+        <parameter key="raph.productadmin.class">Raph\EbayparserBundle\Admin\ProductAdmin</parameter>
     </parameters>
     <services>
         <service id="raph.ebayrequest" class="%raph.ebayrequest.class%">
             <argument type="service" id="gremo_buzz"/>
             <argument type="service" id="logger"/>
+        </service>
+        <service id="raph.admin.category" class="%raph.categoryadmin.class%">
+            <tag name="sonata.admin" manager_type="orm" group="EbayParser" label="Categories"/>
+            <argument />
+            <argument>Raph\EbayparserBundle\Entity\Category</argument>
+            <argument>RaphEbayparserBundle:CategoryAdmin</argument>
+            <call method="setTranslationDomain">
+                <argument>RaphEbayparserBundle</argument>
+            </call>
+        </service>
+        <service id="raph.admin.keyword" class="%raph.keywordadmin.class%">
+            <tag name="sonata.admin" manager_type="orm" group="EbayParser" label="Keywords"/>
+            <argument />
+            <argument>Raph\EbayparserBundle\Entity\Keyword</argument>
+            <argument>RaphEbayparserBundle:KeywordAdmin</argument>
+            <call method="setTranslationDomain">
+                <argument>RaphEbayparserBundle</argument>
+            </call>
+        </service>
+        <service id="raph.admin.products" class="%raph.productadmin.class%">
+            <tag name="sonata.admin" manager_type="orm" group="EbayParser" label="Products"/>
+            <argument />
+            <argument>Raph\EbayparserBundle\Entity\Product</argument>
+            <argument>RaphEbayparserBundle:ProductAdmin</argument>
         </service>
     </services>
 </container>

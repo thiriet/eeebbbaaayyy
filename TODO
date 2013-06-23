@@ -1,4 +1,7 @@
-ADD KEYWORD HANDLING IN PRODUCT
-CONSTRUCT BO
-    ADD KEYWORDS BO
-    ADD PRODUCT BO
+PUT Index2action as a service
+ADD console handling
+ADD delete hook on category remove to deactivate keywords
+ADD CRONTAB support
+BO
+    ADD SECURITY
+    ADD Batch logs + handling

@@ -5,45 +5,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4980edd9-8e9a-434f-83f9-3145769a160a" name="Default" comment="add mapping between keywords and categories">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/ebayparser.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/frameworkRootSettings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/sass_stdlib.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TODO" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Admin/CategoryAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/CategoryAdminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Command/EbayRequesterCommand.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Admin/KeywordAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/KeywordAdminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/KeywordController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Admin/ProductAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/ProductAdminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/ProductController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Keyword/edit.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Product/edit.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Keyword/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Product/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Keyword/new.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Product/new.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Keyword/show.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Product/show.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Category.php" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Category.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/DefaultController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keyword.php" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keyword.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Product.php" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TODO" afterPath="$PROJECT_DIR$/TODO" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/config/services.xml" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/config/services.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ebayparser.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/DefaultController.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369004476872" ignored="false" />
-    <file path="/a.dummy" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368742745637" ignored="false" />
+    <file path="/DefaultController.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372009595508" ignored="false" />
+    <file path="/a.dummy" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369049506310" ignored="false" />
     <file path="/EbayRequest.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1367965293760" ignored="false" />
-    <file path="/services.xml" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1366216471468" ignored="false" />
+    <file path="/services.xml" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369688924358" ignored="false" />
     <file path="/routing.yml" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1365101243010" ignored="false" />
-    <file path="/dummy.txt" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369004173044" ignored="false" />
+    <file path="/dummy.txt" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372008607686" ignored="false" />
     <file path="/index2.html.twig" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1366039098595" ignored="false" />
-    <file path="/fragment.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368917802004" ignored="false" />
-    <file path="/Product.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1367967943502" ignored="false" />
+    <file path="/fragment.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372005376564" ignored="false" />
+    <file path="/Product.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369054240531" ignored="false" />
     <file path="/parameters.yml" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1367965991083" ignored="false" />
     <file path="/ProductService.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1366216615151" ignored="false" />
     <file path="/Keywords.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1366713815951" ignored="false" />
     <file path="/a.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1367962357333" ignored="false" />
     <file path="/Country.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1367965161190" ignored="false" />
-    <file path="/Keyword.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368915127652" ignored="false" />
-    <file path="/Category.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368963078464" ignored="false" />
-    <file path="/TODO" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368963437284" ignored="false" />
-    <file path="/Dummy.txt" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369002934145" ignored="false" />
+    <file path="/Keyword.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372008912410" ignored="false" />
+    <file path="/Category.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372004179882" ignored="false" />
+    <file path="/TODO" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372010053944" ignored="false" />
+    <file path="/Dummy.txt" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372002922802" ignored="false" />
     <file path="/CategoryController.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368918056469" ignored="false" />
-    <file path="/show.html.twig" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368950650813" ignored="false" />
+    <file path="/show.html.twig" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369347645566" ignored="false" />
     <file path="/.gitignore" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368963247946" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369047309693" ignored="false" />
+    <file path="/config.yml" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369348910743" ignored="false" />
+    <file path="/AppKernel.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369351554809" ignored="false" />
+    <file path="/Admin.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369685309583" ignored="false" />
+    <file path="/admin.xml" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369685470382" ignored="false" />
+    <file path="/CategoryAdminController.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369687037070" ignored="false" />
+    <file path="/KeywordAdminController.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369686484263" ignored="false" />
+    <file path="/CategoryAdmin.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369687093759" ignored="false" />
+    <file path="/KeywordAdmin.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372009120638" ignored="false" />
+    <file path="/ProductAdminController.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369688852529" ignored="false" />
+    <file path="/ProductAdmin.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369690234933" ignored="false" />
+    <file path="/CategoryRepository.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1370300793782" ignored="false" />
+    <file path="/test.css" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1370621417760" ignored="false" />
+    <file path="/testKeywords.html.twig" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372005688728" ignored="false" />
+    <file path="/EbayRequesterCommand.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372010116674" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,10 +100,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DefaultController.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="DefaultController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/DefaultController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="26" selection-start="1943" selection-end="1943" vertical-scroll-proportion="0.9043659">
+            <state line="10" column="33" selection-start="393" selection-end="393" vertical-scroll-proportion="15.0">
               <folding>
                 <element signature="e#52#93#0" expanded="true" />
               </folding>
@@ -83,11 +111,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EbayRequest.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Services/EbayRequest.php">
+      <file leaf-file-name="Keyword.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keyword.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="918" selection-end="918" vertical-scroll-proportion="-7.0416665">
+            <state line="172" column="5" selection-start="3148" selection-end="3148" vertical-scroll-proportion="-6.82">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KeywordAdmin.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Admin/KeywordAdmin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="38" selection-start="807" selection-end="807" vertical-scroll-proportion="-3.82">
+              <folding>
+                <element signature="e#211#246#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,25 +134,7 @@
       <file leaf-file-name="Product.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="466" column="20" selection-start="7701" selection-end="7701" vertical-scroll-proportion="-15.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TODO" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TODO">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Keyword.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keyword.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="6" selection-start="735" selection-end="735" vertical-scroll-proportion="24.375">
+            <state line="135" column="15" selection-start="2255" selection-end="2258" vertical-scroll-proportion="-3.26">
               <folding />
             </state>
           </provider>
@@ -122,34 +143,36 @@
       <file leaf-file-name="Category.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Category.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="48" selection-start="129" selection-end="129" vertical-scroll-proportion="53.25">
+            <state line="110" column="5" selection-start="1960" selection-end="1960" vertical-scroll-proportion="-6.96">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Category/index.html.twig">
+      <file leaf-file-name="TODO" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TODO">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="8" selection-start="887" selection-end="899" vertical-scroll-proportion="0.0">
+            <state line="0" column="4" selection-start="4" selection-end="16" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Category/show.html.twig">
+      <file leaf-file-name="EbayRequesterCommand.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Command/EbayRequesterCommand.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="42" selection-start="491" selection-end="491" vertical-scroll-proportion="-8.375">
-              <folding />
+            <state line="32" column="0" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.6963563">
+              <folding>
+                <element signature="e#213#278#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CategoryController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/CategoryController.php">
+      <file leaf-file-name="config.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="9" selection-start="2596" selection-end="2596" vertical-scroll-proportion="-57.5">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -164,30 +187,30 @@
   </component>
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
-      <command text="s doctrine:schema:update --dump-sql" />
-      <command text="s doctrine:schema:update --force" />
-      <command text="s doctrine:schema:update --dump-sql" />
-      <command text="s doctrine:generate:entities Raph" />
-      <command text="s doctrine:schema:update --dump-sql" />
-      <command text="s doctrine:generate:entities Raph" />
-      <command text="s doctrine:schema:update --dump-sql" />
-      <command text="s doctrine:schema:update --force" />
-      <command text="s server:run " />
-      <command text="s doctrine:generate:entities Raph" />
-      <command text="s doctrine:schema:update --dump-sql" />
-      <command text="s doctrine:generate:entities Raph" />
-      <command text="s doctrine:schema:update --dump-sql" />
-      <command text="s doctrine:schema:update --force" />
-      <command text="s doctrine:generate:crud --entity=RaphEbayparserBundle:Category--format=annotation --with-write" />
-      <command text="s doctrine:generate:crud --entity=RaphEbayparserBundle:Category --format=annotation --with-write" />
-      <command text="s doctrine:generate:entities Raph" />
-      <command text="s doctrine:generate:entities Raph" />
-      <command text="s doctrine:generate:entities Raph" />
-      <command text="s doctrine:generate:entities Raph" />
-      <command text="s doctrine:schema:update --dump-sql" />
       <command text="s server:run " />
       <command text="s server:run " />
       <command text="s server:run " />
+      <command text="s server:run " />
+      <command text="s server:run " />
+      <command text="s assets:install web" />
+      <command text="s cache:clear" />
+      <command text="s cache:clear" />
+      <command text="s server:run " />
+      <command text="s cache:clear" />
+      <command text="s doctrine:generate:entities Raph" />
+      <command text="s server:run " />
+      <command text="s server:run " />
+      <command text="s cache:clear" />
+      <command text="s server:run " />
+      <command text="s doctrine:generate:entity" />
+      <command text="s doctrine:generate:entity --entity=country --fields=&quot;name,active&quot;" />
+      <command text="s doctrine:generate:entity --entity=RaphEbayparserBundle:country --fields=&quot;name,active&quot;" />
+      <command text="s server:run " />
+      <command text="s server:run " />
+      <command text="s server:run " />
+      <command text="s cache:clear" />
+      <command text="s cache:clear" />
+      <command text="s cache:clear" />
       <command text="s server:run " />
     </commandsHistory>
   </component>
@@ -205,22 +228,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/config/admin.xml" />
+        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/KeywordAdminController.php" />
+        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/CategoryAdminController.php" />
+        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Admin/CategoryAdmin.php" />
+        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/ProductAdminController.php" />
         <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/config/services.xml" />
-        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Services/ProductService.php" />
-        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Services/EbayRequest.php" />
-        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
-        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keywords.php" />
-        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Country.php" />
-        <option value="$PROJECT_DIR$/vendor/kriswallsmith/buzz/lib/Buzz/Client/AbstractCurl.php" />
-        <option value="$PROJECT_DIR$/app/config/config_dev.yml" />
-        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Product.php" />
+        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Admin/ProductAdmin.php" />
+        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/CategoryRepository.php" />
+        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/public/css/test.css" />
+        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Default/testKeywords.html.twig" />
         <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keyword.php" />
-        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/CategoryController.php" />
-        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Category/show.html.twig" />
-        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Category.php" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Admin/KeywordAdmin.php" />
         <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Category.php" />
         <option value="$PROJECT_DIR$/TODO" />
+        <option value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Command/EbayRequesterCommand.php" />
       </list>
     </option>
   </component>
@@ -243,16 +266,34 @@
             <id />
           </State>
           <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
             <id>Data flow issuesJavaScript</id>
           </State>
           <State>
             <id>Error handlingJavaScript</id>
           </State>
           <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
             <id>JavaScript</id>
           </State>
           <State>
             <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
           </State>
         </expanded-state>
         <selected-state>
@@ -307,6 +348,70 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ebayparser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ebayparser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ebayparser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ebayparser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ebayparser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ebayparser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ebayparser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ebayparser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Raph" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EbayparserBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -316,12 +421,28 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="/Applications/MAMP/bin/php/php5.4.10/bin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/public/css" />
     <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PublishConfig" serverName="renault-dev" serverId="2ce19839-e937-4ca9-9fe9-0c99d206256a">
+    <servers>
+      <server id="2ce19839-e937-4ca9-9fe9-0c99d206256a">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/webadmin/published/fr/elements/testRaph" local="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/public/" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Default" />
+    </key>
   </component>
   <component name="RunManager" selected="PHP Web Application.Symfony">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -332,6 +453,9 @@
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="2ce19839-e937-4ca9-9fe9-0c99d206256a" server_name="renault-dev">
       <method />
     </configuration>
     <configuration default="false" name="Symfony" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="localhost">
@@ -382,7 +506,11 @@
       <created>1368963307669</created>
       <updated>1368963307669</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ungit some files">
+      <created>1369047381687</created>
+      <updated>1369047381687</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -410,21 +538,22 @@
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6006098" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.294835" sideWeight="0.25" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29196557" sideWeight="0.57427055" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.294835" sideWeight="0.5026455" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32142857" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29196557" sideWeight="0.4510582" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4484127" sideWeight="0.4913917" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28119937" sideWeight="0.5259939" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44960213" sideWeight="0.50860834" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28119937" sideWeight="0.5259939" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33213773" sideWeight="0.30952382" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33213773" sideWeight="0.4431217" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24735449" sideWeight="0.9928264" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32228118" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -473,7 +602,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Category handling and CRUD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ungit some files" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -490,128 +619,137 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="add mapping between keywords and categories" />
     <MESSAGE value="add Category handling and CRUD" />
+    <MESSAGE value="Ungit some files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/DefaultController.php</url>
-          <line>105</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/vendor/kriswallsmith/buzz/lib/Buzz/Client/AbstractCurl.php</url>
           <line>15</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/DefaultController.php</url>
+          <line>41</line>
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="44" />
+      <option name="time" value="57" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/gremo/buzz-bundle/Gremo/BuzzBundle/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="24" selection-start="1421" selection-end="1482" vertical-scroll-proportion="0.42735043" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/kriswallsmith/buzz/lib/Buzz/Client/AbstractCurl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="72" selection-start="579" selection-end="579" vertical-scroll-proportion="0.7147059">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/config_dev.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="24" selection-start="553" selection-end="553" vertical-scroll-proportion="0.6537468" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/vendor/kriswallsmith/buzz/lib/Buzz/Message/RequestInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="51" selection-start="487" selection-end="487" vertical-scroll-proportion="0.21472393" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Category/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="8" selection-start="887" selection-end="899" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="97" selection-end="97" vertical-scroll-proportion="0.1744186" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="466" column="20" selection-start="7701" selection-end="7701" vertical-scroll-proportion="-15.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/sensio/framework-extra-bundle/Sensio/Bundle/FrameworkExtraBundle/Configuration/Route.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="6" selection-start="422" selection-end="422" vertical-scroll-proportion="0.3524229">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/CategoryController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="9" selection-start="2596" selection-end="2596" vertical-scroll-proportion="-57.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Category/show.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="42" selection-start="491" selection-end="491" vertical-scroll-proportion="-8.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="48" selection-start="129" selection-end="129" vertical-scroll-proportion="53.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keyword.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="6" selection-start="735" selection-end="735" vertical-scroll-proportion="24.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Services/EbayRequest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="918" selection-end="918" vertical-scroll-proportion="-7.0416665">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TODO">
+    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/config/services.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="18" selection-start="315" selection-end="315" vertical-scroll-proportion="0.31853282" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/DependencyInjection/RaphEbayparserExtension.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/DependencyInjection/Configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Acme/DemoBundle/Controller/DemoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="7" selection-start="819" selection-end="819" vertical-scroll-proportion="0.38325992">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Default/index2.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Services/EbayRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="15" selection-start="2255" selection-end="2258" vertical-scroll-proportion="-3.26">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keyword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="172" column="5" selection-start="3148" selection-end="3148" vertical-scroll-proportion="-6.82">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Admin/KeywordAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="38" selection-start="807" selection-end="807" vertical-scroll-proportion="-3.82">
+          <folding>
+            <element signature="e#211#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="26" selection-start="1943" selection-end="1943" vertical-scroll-proportion="0.9043659">
+        <state line="10" column="33" selection-start="393" selection-end="393" vertical-scroll-proportion="15.0">
           <folding>
             <element signature="e#52#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TODO">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="4" selection-start="4" selection-end="16" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="5" selection-start="1960" selection-end="1960" vertical-scroll-proportion="-6.96">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Command/EbayRequesterCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.6963563">
+          <folding>
+            <element signature="e#213#278#0" expanded="true" />
           </folding>
         </state>
       </provider>

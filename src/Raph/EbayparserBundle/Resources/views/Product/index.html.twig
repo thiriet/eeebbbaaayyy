@@ -1,0 +1,65 @@
+{% extends '::base.html.twig' %}
+
+{% block body -%}
+    <h1>Product list</h1>
+
+    <table class="records_list">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Productcountry</th>
+                <th>Ebayid</th>
+                <th>Price</th>
+                <th>Currency</th>
+                <th>Description</th>
+                <th>Creationdate</th>
+                <th>Updatedate</th>
+                <th>Publicationdate</th>
+                <th>Enddate</th>
+                <th>Sellprice</th>
+                <th>Bidamount</th>
+                <th>Sellingstate</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for entity in entities %}
+            <tr>
+                <td><a href="{{ path('product_show', { 'id': entity.id }) }}">{{ entity.id }}</a></td>
+                <td>{{ entity.name }}</td>
+                <td>{{ entity.productCountry }}</td>
+                <td>{{ entity.ebayID }}</td>
+                <td>{{ entity.price }}</td>
+                <td>{{ entity.currency }}</td>
+                <td>{{ entity.description }}</td>
+                <td>{% if entity.creationDate %}{{ entity.creationDate|date('Y-m-d H:i:s') }}{% endif %}</td>
+                <td>{% if entity.updateDate %}{{ entity.updateDate|date('Y-m-d H:i:s') }}{% endif %}</td>
+                <td>{% if entity.publicationDate %}{{ entity.publicationDate|date('Y-m-d H:i:s') }}{% endif %}</td>
+                <td>{% if entity.endDate %}{{ entity.endDate|date('Y-m-d H:i:s') }}{% endif %}</td>
+                <td>{{ entity.sellPrice }}</td>
+                <td>{{ entity.bidAmount }}</td>
+                <td>{{ entity.sellingState }}</td>
+                <td>
+                <ul>
+                    <li>
+                        <a href="{{ path('product_show', { 'id': entity.id }) }}">show</a>
+                    </li>
+                    <li>
+                        <a href="{{ path('product_edit', { 'id': entity.id }) }}">edit</a>
+                    </li>
+                </ul>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+        <ul>
+        <li>
+            <a href="{{ path('product_new') }}">
+                Create a new entry
+            </a>
+        </li>
+    </ul>
+    {% endblock %}
