@@ -4,35 +4,10 @@
     <option name="ANALYSIS_IN_BACKGROUND" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4980edd9-8e9a-434f-83f9-3145769a160a" name="Default" comment="add mapping between keywords and categories">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Admin/CategoryAdmin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/CategoryAdminController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Command/EbayRequesterCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Admin/KeywordAdmin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/KeywordAdminController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/KeywordController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Admin/ProductAdmin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/ProductAdminController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/ProductController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Keyword/edit.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Product/edit.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Keyword/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Product/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Keyword/new.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Product/new.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Keyword/show.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/views/Product/show.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Category.php" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/DefaultController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keyword.php" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Keyword.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Product.php" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Entity/Product.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TODO" afterPath="$PROJECT_DIR$/TODO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/config/services.xml" afterPath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/config/services.xml" />
+    <list default="true" id="4980edd9-8e9a-434f-83f9-3145769a160a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/CategoryController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/KeywordController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Raph/EbayparserBundle/Controller/ProductController.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ebayparser.iws" />
@@ -42,7 +17,7 @@
     <file path="/EbayRequest.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1367965293760" ignored="false" />
     <file path="/services.xml" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369688924358" ignored="false" />
     <file path="/routing.yml" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1365101243010" ignored="false" />
-    <file path="/dummy.txt" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372008607686" ignored="false" />
+    <file path="/dummy.txt" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372010373441" ignored="false" />
     <file path="/index2.html.twig" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1366039098595" ignored="false" />
     <file path="/fragment.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372005376564" ignored="false" />
     <file path="/Product.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369054240531" ignored="false" />
@@ -54,7 +29,7 @@
     <file path="/Keyword.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372008912410" ignored="false" />
     <file path="/Category.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372004179882" ignored="false" />
     <file path="/TODO" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372010053944" ignored="false" />
-    <file path="/Dummy.txt" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372002922802" ignored="false" />
+    <file path="/Dummy.txt" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1372010283429" ignored="false" />
     <file path="/CategoryController.php" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368918056469" ignored="false" />
     <file path="/show.html.twig" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1369347645566" ignored="false" />
     <file path="/.gitignore" changelist="4980edd9-8e9a-434f-83f9-3145769a160a" time="1368963247946" ignored="false" />
@@ -161,7 +136,7 @@
       <file leaf-file-name="EbayRequesterCommand.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Command/EbayRequesterCommand.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.6963563">
+            <state line="32" column="0" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.699187">
               <folding>
                 <element signature="e#213#278#0" expanded="true" />
               </folding>
@@ -191,7 +166,6 @@
       <command text="s server:run " />
       <command text="s server:run " />
       <command text="s server:run " />
-      <command text="s server:run " />
       <command text="s assets:install web" />
       <command text="s cache:clear" />
       <command text="s cache:clear" />
@@ -211,6 +185,7 @@
       <command text="s cache:clear" />
       <command text="s cache:clear" />
       <command text="s cache:clear" />
+      <command text="s server:run " />
       <command text="s server:run " />
     </commandsHistory>
   </component>
@@ -412,6 +387,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ebayparser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ebayparser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Raph" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EbayparserBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -510,7 +511,11 @@
       <created>1369047381687</created>
       <updated>1369047381687</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add admin + a bunch of new features">
+      <created>1372010290401</created>
+      <updated>1372010290401</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -545,16 +550,16 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44960213" sideWeight="0.50860834" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28119937" sideWeight="0.5259939" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33213773" sideWeight="0.30952382" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33213773" sideWeight="0.4431217" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33213773" sideWeight="0.30901858" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33213773" sideWeight="0.44164455" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24735449" sideWeight="0.9928264" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2480106" sideWeight="0.9928264" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39939025" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -602,7 +607,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ungit some files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add admin + a bunch of new features" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -620,6 +625,7 @@
     <MESSAGE value="add mapping between keywords and categories" />
     <MESSAGE value="add Category handling and CRUD" />
     <MESSAGE value="Ungit some files" />
+    <MESSAGE value="add admin + a bunch of new features" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -642,13 +648,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Resources/config/services.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="18" selection-start="315" selection-end="315" vertical-scroll-proportion="0.31853282" />
@@ -747,7 +746,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Raph/EbayparserBundle/Command/EbayRequesterCommand.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.6963563">
+        <state line="32" column="0" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.699187">
           <folding>
             <element signature="e#213#278#0" expanded="true" />
           </folding>
