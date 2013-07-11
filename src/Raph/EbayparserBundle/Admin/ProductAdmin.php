@@ -26,6 +26,7 @@ class ProductAdmin extends Admin {
     {
         $datagridMapper
             ->add('productCountry')
+            ->add('keyword')
         ;
     }
 

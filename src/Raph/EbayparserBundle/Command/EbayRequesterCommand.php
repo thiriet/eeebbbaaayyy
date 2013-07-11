@@ -14,7 +14,6 @@ use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
-use Raph\EbayparserBundle\Controller\DefaultController;
 
 class EbayRequesterCommand extends ContainerAwareCommand{
 
@@ -30,8 +29,10 @@ class EbayRequesterCommand extends ContainerAwareCommand{
     protected function execute(InputInterface $input, OutputInterface $output)
     {
         $country= $input->getArgument('country');
-
-
         $output->writeln('country to call: '.$country);
+        $output->writeln('request ebay now...');
+        $requester = $this->getContainer()->get('raph.ebayproductfetcher')->fetchProducts($country);
+
+        $output->writeln('result: '.$requester);
     }
 }

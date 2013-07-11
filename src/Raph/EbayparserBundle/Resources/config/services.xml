@@ -6,6 +6,7 @@
 
     <parameters>
         <parameter key="raph.ebayrequest.class">Raph\EbayparserBundle\Services\EbayRequest</parameter>
+        <parameter key="raph.ebayproductfetcher.class">Raph\EbayparserBundle\Services\EbayProductFetcher</parameter>
         <parameter key="raph.categoryadmin.class">Raph\EbayparserBundle\Admin\CategoryAdmin</parameter>
         <parameter key="raph.keywordadmin.class">Raph\EbayparserBundle\Admin\KeywordAdmin</parameter>
         <parameter key="raph.productadmin.class">Raph\EbayparserBundle\Admin\ProductAdmin</parameter>
@@ -14,6 +15,10 @@
         <service id="raph.ebayrequest" class="%raph.ebayrequest.class%">
             <argument type="service" id="gremo_buzz"/>
             <argument type="service" id="logger"/>
+        </service>
+        <service id="raph.ebayproductfetcher" class="%raph.ebayproductfetcher.class%">
+            <argument type="service" id="doctrine.orm.entity_manager"/>
+            <argument type="service" id="raph.ebayrequest"/>
         </service>
         <service id="raph.admin.category" class="%raph.categoryadmin.class%">
             <tag name="sonata.admin" manager_type="orm" group="EbayParser" label="Categories"/>
